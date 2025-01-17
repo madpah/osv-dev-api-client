@@ -3,5 +3,6 @@ outputDir: /local/out/go
 generatorName: go
 gitRepoId: osv-dev-api-client-go
 additionalProperties:
+  enumClassPrefix: true
   goImportAlias: osvdev
   packageName: osvdev
